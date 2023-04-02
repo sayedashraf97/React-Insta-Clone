@@ -1,0 +1,12 @@
+.card.home-content {
+    display: flex !important;
+    flex-wrap: nowrap !important;
+    flex-direction: row !important;
+   
+  }
+  .card.home-content .landing-img {
+    width: 200px;
+    height: 300px;
+    object-fit: cover;
+  }
+  
